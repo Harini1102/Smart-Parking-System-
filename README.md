@@ -29,11 +29,11 @@ Smart Parking System consists of car parking spot,each spot is represented with 
 * Choose the installation directory in the next step. The installation process will extract and install all the required files to execute the Arduino Software properly.
 * After the process is completed, you can choose to close the window or select the option 'Run Arduino IDE'. With the Arduino IDE installed, you are ready to start programming your Arduino Uno.
 <br>
+
 ### (B) To use the Smart Parking System we need to follow these steps
 * Connect Arduino Uno to desktop/laptop using USB cable. Verify the code in desktop/laptop in Arduino IDE and then select correct serial com port.
 * Now upload the code to Arduino Uno board and remove USB cable after successfully uploading the code.
 * Setup and connect all the components with Arduino Uno Board.
-<br>
 
 ## USAGE
 <p align="justify">The system shows on the display monitor that how many parking places have been filled how many has to fill more  using IR sensors to identify the car or object and LCD for display.If the parking slots are filled, it doesn’t allow any vehicle to go into the parking lot it displays in the display monitor that the slots have been filled. If any vehicle comes out the parking lot then only one vehicle is allowed to fill the slot.</p>
